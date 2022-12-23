@@ -5,5 +5,6 @@
 /////////////////////////////////////////////////
 
 Сcылки на другие Design Pattern:
+
 https://github.com/mmarryll/SingletoneDesignPattern
 https://github.com/mmarryll/AbstractFactoryDesignPattern 
